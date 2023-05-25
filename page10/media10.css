@@ -1,0 +1,99 @@
+@media screen and (max-width: 1020px)  {
+    .navbar{
+     height: 100px;
+    }
+     .nav-icons{
+     display: none;
+    } 
+    .sub-heading-1 h2{
+     font-size: 16px;
+    }
+    .heading-1 h1{
+     font-size: 50px;
+    }
+    .para-1 p{
+     font-size: 16px;
+     width: 100%;
+    }
+    .button1{
+     width: 200px;
+     height: 60px;
+     font-size: 15px;
+     margin-top: 20px;
+    }
+    .yellow-circle{
+     width: 130px;
+     height: 130px;
+    }
+    .green-circle{
+     width: 30px;
+     height: 30px;
+    }
+ }
+
+
+ @media screen and (max-width: 950px){
+    #section-2{
+        display: block;
+    }
+    .img-content-sec-2{
+        width: 100%;
+    }
+    .search-sec-2{
+        width: 100%;
+        margin-top: 50px;
+    }
+    .form-search{
+        width: 95%;
+    }
+    .search-heading{
+        width: 95%;
+    }
+    .options{
+        width: 95%;
+    }
+    .recent-text{
+        width: 95%;
+    }
+    .diff-opt{
+        width: 95%;
+    }
+    .tag-box{
+        width: 95%;
+    }
+    .about-info{
+        width: 95%;
+    }
+ }
+
+
+ @media screen and (max-width: 765px)  {
+    .nav-icons{
+     display: none;
+    }
+    .nav-elements-2 li, a, i{
+      display: none;
+    } 
+    .pink-menu-bar{
+        display: block;
+    }
+    .heading-1 h1{
+        font-size: 40px;
+    }
+    .yellow-circle{
+        width: 110px;
+        height: 110px;
+    }
+    .green-circle{
+        width: 25px;
+        height: 25px;
+    }
+ }
+
+
+ @media screen and (max-width: 600px){
+    .text-btn-sec-1{
+        width: 95%;
+    }
+
+}

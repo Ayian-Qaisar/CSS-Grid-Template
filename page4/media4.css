@@ -1,0 +1,31 @@
+@media screen and (max-width: 1020px)  {
+    header{
+     height: 100px;
+    }
+     .nav-bar{
+     display: none;
+    } 
+ }
+ @media screen and (max-width: 765px)  {
+    .nav-bar{
+     display: none;
+    }
+    .middle-lis li, a, i{
+      display: none;
+    } 
+    .pink-menu-bar{
+        display: block;
+    }
+    
+   .section{
+    padding: 0 5%;
+    background-position: center;
+    background-size: cover;
+   }
+    .text-1 h1{
+        font-size: 37px;
+    }
+    .text-1 h2{
+        font-size: 20px;
+    }
+ }
